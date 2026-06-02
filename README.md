@@ -57,7 +57,7 @@ DocumentClassifier/
 ## Quick Start Guide (For External Users)
 
  If someone else wants to download and run this project on their computer, they just need to clone/download these files and execute these three basic steps in their terminal:  
-1. Install the Core Dependencies
+1. Open VS code and Install the Core Dependencies
 Run this command to download the essential machine learning and web server software libraries your app runs on:
 
 pip install flask sklearn joblib nltk
